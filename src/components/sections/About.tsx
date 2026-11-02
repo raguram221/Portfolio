@@ -98,7 +98,7 @@ export function About() {
                 {PORTFOLIO_DATA.personal.aboutBio}
               </p>
               <p className="text-base text-slate-400 leading-relaxed font-sans">
-                Whether architecting database schemas for procurement logistics, integrating real-time communication APIs, or experimenting with computer vision gesture recognition, I view software as a medium to construct durable, intuitive solutions.
+                Whether architecting database schemas for procurement logistics, integrating real-time communication APIs, or building resilient full-stack systems, I view software as a medium to construct durable, intuitive solutions.
               </p>
             </div>
 

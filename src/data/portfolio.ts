@@ -60,7 +60,7 @@ export const PORTFOLIO_DATA = {
     },
     {
       title: "Practical Impact",
-      description: "Dedicated to building tangible digital solutions that solve real community challenges — from accessibility to agri-tech."
+      description: "Dedicated to building tangible digital solutions that solve real community challenges and streamline everyday workflows."
     },
     {
       title: "Continuous Exploration",
@@ -131,22 +131,6 @@ export const PORTFOLIO_DATA = {
       githubUrl: "https://github.com/raguram221/SIH2026",
       imagePlaceholder: "linear-gradient(135deg, #092019 0%, #0d3829 50%, #061510 100%)",
       accentColor: "#10b981"
-    },
-    {
-      id: "sign-speech",
-      title: "Hand Sign to Speech – Accessibility Project",
-      subtitle: "Real-time Indian Sign Language recognition & assistive speech synthesizer",
-      description: "An accessibility-focused web application designed to recognize Indian Sign Language hand gestures and convert recognized signs into understandable text and real-time synthesized speech. Built to bridge communication barriers for speech and hearing-impaired individuals.",
-      features: [
-        "Real-time camera feed capture and hand gesture frame tracking",
-        "Indian Sign Language (ISL) gesture translation mapping",
-        "Immediate text-to-speech conversion using the Web Speech API",
-        "Accessible, high-contrast user interface with responsive controls",
-        "Client-side processing pipeline designed for minimal latency"
-      ],
-      tags: ["React", "Computer Vision", "Web Speech API", "JavaScript", "Tailwind CSS"],
-      imagePlaceholder: "linear-gradient(135deg, #131d36 0%, #1e2e5c 50%, #0c1224 100%)",
-      accentColor: "#38bdf8"
     }
   ] as ProjectItem[],
 
